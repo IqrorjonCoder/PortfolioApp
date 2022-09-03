@@ -1,0 +1,98 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+.container{
+    width: 1200px;
+    padding: 0 20px;
+    margin: 0 auto;
+}
+
+.header_back_container{
+    background: #1f1f1f;
+}
+
+.header_container{
+    display: flex;
+    justify-content: space-around;
+    padding: 26px 0px;
+}
+
+a{
+    text-decoration: none;
+}
+
+.logo_link{
+    padding: 0;
+    margin: 0;
+}
+
+.navbar_list{
+    display: flex;
+    list-style: none;
+}
+
+.navbar_list_item{
+    padding: 14px 50px;
+}
+
+.navbar_links{
+    color: grey;
+}
+
+.navbar_links:hover{
+    text-decoration: underline;
+    text-underline-offset: 4px;
+    text-decoration-color: orange;
+}
+
+.about_me{
+    width: 1202px;
+    height: 500px;
+    padding: 0 100px;
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-between;
+    
+}
+.aboutme_text h3, h2, p{
+    color: #fff;
+}
+
+.aboutme_text p{
+    max-width: 300px;
+    line-height: 21px;
+    margin-top: 5px;
+}
+.aboutme_text h3{
+    max-width: 300px;
+    font-size: 30px;
+    line-height: 82px;
+}
+.aboutme_text h2{
+    max-width: 300px;
+    font-size: 55px;
+}
+
+.code_image{
+    margin: -40px;
+    width: 350px;
+    height: 500px;
+}
+
+.contact_me_btn{
+    width: 200px;
+    height: 47px;
+    background-color: orange;
+    color: black;
+    border-radius: 6px;
+    font-family: 'NEXT ART';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 20px;
+    margin-top: 20px;
+    cursor: pointer;
+}

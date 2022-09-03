@@ -1,0 +1,102 @@
+.main{
+    width: 100%;
+    height: 1500px;
+    background: linear-gradient(130.68deg, #414141 0%, #2D2D2D 100.52%);
+    margin: 0 auto;
+}
+
+.skills{
+    width: 1180px;
+    margin: 0 auto;
+    padding-top: 50px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-grow: 5;
+    justify-content: center;
+    align-items: center;
+}
+
+.skills_div{
+    width: 200px;
+    height: 200px;
+    background-color: #2A2A2A;
+    border-radius: 27px;
+    margin: 25px 25px;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.47);
+    display: inline-grid;
+    align-items: center;
+    justify-items: center;
+}
+
+.skills_img{
+    width: 75px;
+    height: 75px;
+}
+
+
+.about{
+    width: 1050px;
+    height: 950px;
+    margin: 0 auto;
+    display: flex;
+    padding-top: 80px;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.gallary1{
+    width: 30%;
+    height: 95%;
+    display: grid;
+    justify-content: right;
+    align-items: center;
+    row-gap: 180px;
+
+}
+.gallary1 img{
+    width: 220px;
+    height: 230px;
+}
+
+.about_text{
+    width: 40%;
+    height: 95%;
+    padding:40px;
+    color: white;
+    display: grid;
+    
+}
+
+.about_text h1{
+    font-family: 'NEXT ART';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 48px;
+    line-height: 54px;
+    display: flex;
+    align-items: center;
+}
+
+.about_text p{
+    font-family: 'Arodora Pro';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.01em;
+}
+
+.gallary2{
+    width: 30%;
+    height: 95%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.galary_pic_third{
+    width: 287px;
+    height: 427px;
+}

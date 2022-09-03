@@ -1,0 +1,66 @@
+.footer{
+    width: 100%;
+    height: 300px;
+    background: linear-gradient(130.68deg, #414141 0%, #2D2D2D 100.52%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer_div{
+    width: 900px;
+    height: 250px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.menu_names{
+    width: 20%;
+}
+
+.menu_names a{
+    font-family: 'Arodora Pro';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 21px;
+    display: flex;
+    align-items: center;
+    color: #E4E4E4;
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+    margin-top: 25px;
+}
+
+.contact{
+    width: 40%;
+}
+
+.contact p{
+    font-family: 'Arodora Pro';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 21px;
+    display: flex;
+    align-items: center;
+    color: #E4E4E4;
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+    margin-top: 25px;
+}
+
+.copyright{
+    width: 40%;
+    display: grid;
+    row-gap: 40px;
+}
+.move_to_main{
+    width: 50px;
+    height: 50px;
+    background-color: orange;
+    border-radius: 50%;
+}
