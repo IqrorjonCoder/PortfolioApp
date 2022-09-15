@@ -1,5 +1,6 @@
 # PortfolioApp
-PortfolioApp
+
+## PortfolioApp
 
 <img width="2046" alt="main page" src="https://user-images.githubusercontent.com/111178357/188279793-2d6d0f06-1276-4219-9078-33540fa4a99e.png">
 <img width="2048" alt="skills page" src="https://user-images.githubusercontent.com/111178357/188279795-7b69143d-714c-4427-9e61-151871c4e648.png">
